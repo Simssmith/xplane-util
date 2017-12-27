@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -file toggle-reshade.ps1
